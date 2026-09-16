@@ -1,1 +1,1 @@
-# Opdracht-Deur-Class
+Deur Opdracht (PHP)Dit project bevat een Deur-klasse en een testbestand (index.php) om objectgericht programmeren te demonstreren.BestandenDeur.php — De klasse met de logica (geeft alles terug via return, geen echo in de klasse).  index.php — Het hoofdprogramma dat de methoden aanroept en de output en foutmeldingen print met echo.  UitvoerenPlaats beide bestanden in je webservermap (bijv. XAMPP htdocs) en open index.php in je browser om de resultaten te zien.
